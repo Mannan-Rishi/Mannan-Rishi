@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Atta Ul Mannan Rishi 
 
-<!--
-**Mannan-Rishi/Mannan-Rishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning & AI Enthusiast
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about Machine Learning, Artificial Intelligence. I enjoy building real-world AI systems and automation solutions using Python and modern ML technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+* Machine Learning
+* Artificial Intelligence
+* Computer Vision
+* AI Automation
+* Predictive Modeling
+
+## Technologies & Tools
+
+* Python
+* OpenCV
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Pandas
+* NumPy
+* Google Colab
+* Git & GitHub
+
+## Featured Projects
+
+* AI Desktop Assistant (Jarvis)
+* CCTV Weapon Detection System
+* Image Classification using Pretrained Models
+* Student Performance Prediction
+* Stock Market Prediction
+
+Currently focused on improving AI development skills and building practical machine learning solutions.
