@@ -127,6 +127,4 @@ Classic Pac-Man game developed with Python and Pygame featuring custom ghost AI.
 
 💼 LinkedIn: www.linkedin.com/in/mannan-rishi-69275b333
 
-## Quote
-
 > "Code. Learn. Build. Repeat."
