@@ -1,21 +1,24 @@
-# Hi 👋 I'm Mannan Rishi
+<h1 align="center">Hi 👋, I'm Mannan Rishi</h1>
 
-### AI Engineer | Full-Stack Web Developer | Machine Learning Enthusiast
-
-Building Intelligent Digital Solutions with Artificial Intelligence and Modern Web Technologies.
+<h3 align="center">
+AI Engineer • Full-Stack Web Developer • Machine Learning Enthusiast
+</h3>
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Building AI-powered Web Applications
-- 🐍 Python & FastAPI Developer
-- 🧠 Computer Vision Enthusiast
-- 📚 Currently exploring Deep Learning & LLMs
+🎓 Computer Science student passionate about building intelligent software.
+
+🤖 Specialized in Artificial Intelligence, Machine Learning, Computer Vision and Intelligent Automation.
+
+🌐 Experienced in modern Web Development including WordPress, Shopify, Squarespace, FastAPI and scalable backend systems.
+
+💡 I enjoy transforming real-world problems into AI-powered solutions through clean architecture and modern technologies.
+
+🚀 My goal is to become an AI Engineer building impactful products for millions of users.
 
 ## 💻 Tech Stack
 
-### Programming
+### Languages
 
 Python
 
@@ -25,17 +28,19 @@ HTML
 
 CSS
 
+SQL
+
 ---
 
-### AI / ML
+### AI & ML
 
 TensorFlow
 
 PyTorch
 
-Scikit-Learn
-
 OpenCV
+
+Scikit-Learn
 
 NumPy
 
@@ -53,7 +58,7 @@ REST APIs
 
 ---
 
-### Web
+### Web Technologies
 
 WordPress
 
@@ -61,9 +66,9 @@ Shopify
 
 Squarespace
 
-Elementor
-
 WooCommerce
+
+Elementor
 
 ---
 
@@ -114,9 +119,14 @@ Classic Pac-Man game developed with Python and Pygame featuring custom ghost AI.
 - FastAPI
 - Intelligent Automation
 - Research-based AI Projects
+- Computer Vision
 
 ## 📫 Connect With Me
 
 📧 mannan.rishi.dev@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/mannan-rishi-69275b333
+
+## Quote
+
+> "Code. Learn. Build. Repeat."
